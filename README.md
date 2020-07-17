@@ -27,7 +27,7 @@ This function works over an image dataset with any number of categories. As the 
               
               and by default bgr will be used
               
-TO reuse the code use :
+To reuse the code use :
 
-  pip install git+
+  pip install git+https://github.com/siddharth87/Image_Dataset_Loader
 
