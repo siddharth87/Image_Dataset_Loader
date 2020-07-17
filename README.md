@@ -5,9 +5,13 @@ This function works over an image dataset with any number of categories. As the 
 
 
 Packages
+
 function syntax
+
 size tuple,list(width height) default 64,64
+
 mode: gray, rgb, default =bgr
+
 pip install git
 
 
